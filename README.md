@@ -1,2 +1,2 @@
-# Edureka
+# Headstart
 This is my first repository
